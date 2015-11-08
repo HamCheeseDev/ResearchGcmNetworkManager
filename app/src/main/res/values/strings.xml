@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">ResearchGcmNetworkManager</string>
+
+    <string name="format_alarm_id">ID: %d</string>
+    <string name="format_alarm_fire_date">Fire Date: %s</string>
+
+    <string name="note">Note</string>
+    <string name="format_date">%1$d-%2$02d-%3$02d %4$02d:%5$02d</string>
+    <string name="setting">setting</string>
+    <string name="register">register</string>
+    <string name="update">update</string>
+    <string name="delete">delete</string>
+
+    <string name="confirm_delete_alarm">Delete alarm?</string>
+
+    <string name="confirm">Confirm</string>
+    <string name="error">Error!</string>
+    <string name="error_empty_note">Input this field.</string>
+    <string name="error_already_deleted">Already deleted.</string>
+</resources>
